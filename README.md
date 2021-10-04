@@ -2,7 +2,7 @@
 Searchable Encryption Scheme
 
 Steps:
-1. Download the enron dataset from this link http://enrondata.org/en/latest/ and unzip it.
+1. Download the enron dataset from this link https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz and unzip it.
 2. Change the test_folder_path variable in env_var.py to match the location of the dataset.
 3. Run experiment2.py to create the multiple database collection that vary in the number of files they handled.
 4. Run experiment3.py to query the words that were extracted from the logs of experiment2.py
