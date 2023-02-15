@@ -1,6 +1,8 @@
 # MasterThesisProject
 Searchable Encryption Scheme
 
+[Link](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1638066&dswid=-7340) to the published master thesis paper.
+
 Steps:
 1. Download the enron dataset from this link https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz and unzip it.
 2. Change the test_folder_path variable in env_var.py to match the location of the dataset.
